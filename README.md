@@ -1,4 +1,4 @@
-# Projeto Python
+# Projeto Python - Ciência de Dados
 
 * Leitura de dados com pandas;
 * Manipulação e limpeza de dados com pandas;
